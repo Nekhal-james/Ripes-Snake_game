@@ -9,6 +9,9 @@
 ---
 
 ## 🎮 Gameplay Preview
+<p align="center">
+  <img src="Media/Snake_game.gif" width="400" alt="RISC-V Snake Gameplay">
+</p>
 ## 🚀 Key Features
 * **Zero-Lag Input:** Custom delay-polling logic ensures high-frequency D-pad checks.
 * **Manual Graphics Engine:** Direct buffer writes to a **20x20 LED Matrix**.
