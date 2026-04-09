@@ -6,6 +6,10 @@
 
 > **A high-performance, responsive Snake engine written in pure RV32I Assembly.**
 
+## 🛠️ Tech Stack
+- **Language:** RISC-V Assembly (RV32I)
+- **Environment:** Ripes (Computer Architecture Simulator)
+- **Concepts:** Memory-Mapped I/O (MMIO), Register Allocation, Polling-based Input, Frame Buffering.
 ---
 
 ## 🎮 Gameplay Preview
